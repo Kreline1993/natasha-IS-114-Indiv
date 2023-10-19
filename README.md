@@ -1,5 +1,7 @@
 # norskflagg
-Personal Repository for IS-114 Norsk Flagg oppgave 2 varianter
+#Personal Repository for IS-114 Norsk Flagg oppgave 2 varianter
+
+#Definitions
 
 whiteRectangle = rectangle(220,160, "solid", "white")
 
@@ -11,6 +13,7 @@ redSquare = square(60, "solid", "red")
 
 redRectangle = rectangle(120, 60, "solid", "red")
 
+#Første Variant
 
 put-image(blueHorizontal,
 
@@ -42,6 +45,7 @@ put-image(blueHorizontal,
 
               empty-scene(220,160))))))))
 
+#andre variant
 
 place-image(blueHorizontal,
 
