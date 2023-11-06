@@ -1,2 +1,6 @@
-Norsk flagg oppgave - Progoblig 01
-Nordisk flagg og energiforbruk oppgave - Progoblig 02
+Norsk_flagg.arr = Progoblig1 01
+
+
+Nordisk flagg.arr = Progoblig2 01
+
+Progoblig2-02 = Progoblig2 02
