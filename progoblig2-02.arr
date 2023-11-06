@@ -13,6 +13,7 @@ source: load-spreadsheet(ssid).sheet-by-name("kWh", true)
     # oppgave a)
     sanitize energi using string-sanitizer
 end
+kWh-wealthy-consumer-data
 
 #Bil bruk
 fun bil-energi-bruk(distanse-per-dag :: Number, distanse-per-drivstoff :: Number) -> Number:
