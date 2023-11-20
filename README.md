@@ -4,4 +4,4 @@ Nordisk flagg.arr = Progoblig2 01
 
 Progoblig2-02 = Progoblig2 02
 
-Kreativ Figure = Kreativfigur_progoblig03
+Kreativfigur_progoblig03 = Kreativ Figure
